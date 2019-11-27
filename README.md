@@ -1,1 +1,1 @@
-# ICS3U-FP-Lesson-07
+# ICS3U-FP-Lesson-07-Python
